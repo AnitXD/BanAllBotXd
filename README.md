@@ -14,5 +14,5 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MrRiZoeL/BanallBot)
 
 # Credits
-* [RiZoeL](https://github.com/MrRizoel)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [RiZoeL](https://github.com/AnitXD/banall)
+* [Lonami](https://github.com/AnitXD/banall) for [Telethon.](https://github.com/LonamiWebs/Telethon)
